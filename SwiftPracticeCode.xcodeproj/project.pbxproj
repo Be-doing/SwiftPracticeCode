@@ -11,6 +11,7 @@
 		D716EFD5257E121F001381EF /* OperatorsNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D716EFD4257E121F001381EF /* OperatorsNote.swift */; };
 		D716EFD9257E1294001381EF /* FirstSightForSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D716EFD8257E1294001381EF /* FirstSightForSwift.swift */; };
 		D716F502257F69FA001381EF /* StringNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D716F501257F69FA001381EF /* StringNote.swift */; };
+		D716F87E257FA422001381EF /* CollectionNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D716F87D257FA422001381EF /* CollectionNote.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		D716EFD4257E121F001381EF /* OperatorsNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatorsNote.swift; sourceTree = "<group>"; };
 		D716EFD8257E1294001381EF /* FirstSightForSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSightForSwift.swift; sourceTree = "<group>"; };
 		D716F501257F69FA001381EF /* StringNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringNote.swift; sourceTree = "<group>"; };
+		D716F87D257FA422001381EF /* CollectionNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionNote.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				D716EFD8257E1294001381EF /* FirstSightForSwift.swift */,
 				D716EFD4257E121F001381EF /* OperatorsNote.swift */,
 				D716F501257F69FA001381EF /* StringNote.swift */,
+				D716F87D257FA422001381EF /* CollectionNote.swift */,
 			);
 			path = SwiftPracticeCode;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				D716F502257F69FA001381EF /* StringNote.swift in Sources */,
 				D716EFCB257DD94F001381EF /* main.swift in Sources */,
 				D716EFD9257E1294001381EF /* FirstSightForSwift.swift in Sources */,
+				D716F87E257FA422001381EF /* CollectionNote.swift in Sources */,
 				D716EFD5257E121F001381EF /* OperatorsNote.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
