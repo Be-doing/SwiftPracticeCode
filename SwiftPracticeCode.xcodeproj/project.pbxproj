@@ -15,6 +15,7 @@
 		D716F88225807939001381EF /* ControlFlowNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D716F88125807939001381EF /* ControlFlowNote.swift */; };
 		D723176025A0758100365986 /* UseSwiftFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = D723175F25A0758100365986 /* UseSwiftFunc.swift */; };
 		D723176325A081CC00365986 /* BlocksOfSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D723176225A081CC00365986 /* BlocksOfSwift.swift */; };
+		D723176625A1723500365986 /* ClassAndStructOfSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D723176525A1723500365986 /* ClassAndStructOfSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		D716F88125807939001381EF /* ControlFlowNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlFlowNote.swift; sourceTree = "<group>"; };
 		D723175F25A0758100365986 /* UseSwiftFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseSwiftFunc.swift; sourceTree = "<group>"; };
 		D723176225A081CC00365986 /* BlocksOfSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlocksOfSwift.swift; sourceTree = "<group>"; };
+		D723176525A1723500365986 /* ClassAndStructOfSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassAndStructOfSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				D716F88125807939001381EF /* ControlFlowNote.swift */,
 				D723175F25A0758100365986 /* UseSwiftFunc.swift */,
 				D723176225A081CC00365986 /* BlocksOfSwift.swift */,
+				D723176525A1723500365986 /* ClassAndStructOfSwift.swift */,
 			);
 			path = SwiftPracticeCode;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				D716F88225807939001381EF /* ControlFlowNote.swift in Sources */,
 				D716EFCB257DD94F001381EF /* main.swift in Sources */,
 				D716EFD9257E1294001381EF /* FirstSightForSwift.swift in Sources */,
+				D723176625A1723500365986 /* ClassAndStructOfSwift.swift in Sources */,
 				D716F87E257FA422001381EF /* CollectionNote.swift in Sources */,
 				D723176325A081CC00365986 /* BlocksOfSwift.swift in Sources */,
 				D716EFD5257E121F001381EF /* OperatorsNote.swift in Sources */,
